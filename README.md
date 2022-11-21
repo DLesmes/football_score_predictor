@@ -1,6 +1,6 @@
 # Football Score Predictor
 
-Betting results scraper to guess who will win the next match
+Betting results scraper to guess who will win the next match, base on [wplay.co](https://apuestas.wplay.co/es) page
 
 ## Deepnote Article
 
