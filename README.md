@@ -1,10 +1,10 @@
 # Football Score Predictor
 
-Betting results scraper to guess who will win the next match, base on [wplay.co](https://apuestas.wplay.co/es) page
+💸 Betting results scraper to guess who will win the next match, base on [wplay.co](https://apuestas.wplay.co/es) page 🥅
 
 ## Result
 
-[Online Summary outcome](https://embed.deepnote.com/2c913554-4e96-4d25-8fe3-2c3464cdf3d4/9d9015337c664496b9d487d59ee065b4/e11789deb20a40cead688044ff18e0cc?height=576.935546875) Click to watch the predictions!!
+🙂 [Online Summary outcome](https://embed.deepnote.com/2c913554-4e96-4d25-8fe3-2c3464cdf3d4/9d9015337c664496b9d487d59ee065b4/e11789deb20a40cead688044ff18e0cc?height=576.935546875) Click to watch the predictions!! ⬅️🥇🖱️⚽🥇
 
 ### Deepnote Article
 
